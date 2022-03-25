@@ -1,0 +1,15 @@
+.cart{
+    position: sticky;
+    top: 0;
+    padding: 30px 20px;
+}
+.cart-product{
+    display: flex;
+    align-items: center;
+}
+.cart-product img{
+    height: 40px;
+    margin-left: 5px;
+    margin-right: 30px;
+    border-radius: 50%;
+}
