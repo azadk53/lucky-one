@@ -1,0 +1,74 @@
+[
+    {
+        "id": "1",
+        "category": "Men's watch",
+        "name": "abc",
+        "brand": "Addidas",
+        "price": 420,
+        "img": "https://www.istockphoto.com/de/foto/herren-armbanduhr-gm118803311-11729846?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fmen-watch&utm_term=men+watch%3A%3A%3A"
+    },
+    {
+        "id": "2",
+        "category": "Men's watch",
+        "name": "",
+        "brand": "Addidas",
+        "price": 420,
+        "img": "https://media.istockphoto.com/photos/vintage-photos-picture-id803828804"
+    },
+    {
+        "id": "3",
+        "category": "Men's watch",
+        "name": "",
+        "brand": "Addidas",
+        "price": 420,
+        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg"
+    },
+    {
+        "id": "4",
+        "category": "Men's watch",
+        "name": "",
+        "brand": "Addidas",
+        "price": 420,
+        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg"
+    },
+    {
+        "id": "5",
+        "category": "Men's watch",
+        "name": "",
+        "brand": "Addidas",
+        "price": 420,
+        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg"
+    },
+    {
+        "id": "6",
+        "category": "Men's watch",
+        "name": "",
+        "brand": "Addidas",
+        "price": 420,
+        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg"
+    },
+    {
+        "id": "7",
+        "category": "Women's watch",
+        "name": "",
+        "brand": "Addidas",
+        "price": 420,
+        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg"
+    },
+    {
+        "id": "8",
+        "category": "Men's watch",
+        "name": "",
+        "brand": "Addidas",
+        "price": 420,
+        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg"
+    },
+    {
+        "id": "9",
+        "category": "Women's watch",
+        "name": "",
+        "brand": "Addidas",
+        "price": 420,
+        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg"
+    }
+]
