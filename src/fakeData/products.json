@@ -2,73 +2,73 @@
     {
         "id": 1,
         "category": "Men's watch",
-        "name": "abc",
-        "brand": "Addidas",
-        "price": 420,
-        "img": "../images/watch-1.jpg"
+        "name": "Audemars Piguet",
+        "brand": "Rolex",
+        "price": 120,
+        "img": "https://media.istockphoto.com/photos/military-style-watch-picture-id650233226?s=612x612"
     },
     {
         "id": 2,
         "category": "Men's watch",
-        "name": "acs",
-        "brand": "Addidas",
-        "price": 420,
-        "img": "../images/watch-2.jpg"
+        "name": "Frédérique Constant",
+        "brand": "Rolex",
+        "price": 145,
+        "img": "https://media.istockphoto.com/photos/military-style-watch-picture-id650140604?s=612x612"
     },
     {
         "id": 3,
         "category": "Men's watch",
-        "name": "sdc",
-        "brand": "Addidas",
-        "price": 420,
-        "img": "../images/watch-3.jpg"
+        "name": "Piaget",
+        "brand": "Fossil",
+        "price": 135,
+        "img": "https://media.istockphoto.com/photos/mens-analog-watch-with-leather-wallet-on-wooden-table-top-picture-id1286013269"
     },
     {
         "id": 4,
         "category": "Men's watch",
-        "name": "afd",
-        "brand": "Addidas",
-        "price": 420,
-        "img": "../images/watch-4.jpg"
+        "name": "Harry Winston",
+        "brand": "Swiss",
+        "price": 150,
+        "img": "https://media.istockphoto.com/photos/mans-black-face-wrist-watch-picture-id523202959?s=612x612"
     },
     {
         "id": 5,
         "category": "Men's watch",
-        "name": "sed",
-        "brand": "Addidas",
-        "price": 420,
-        "img": "../images/watch-5.jpg"
+        "name": "Blancpain",
+        "brand": "Omega",
+        "price": 95,
+        "img": "https://media.istockphoto.com/photos/modern-mens-watch-browngold-color-picture-id958184792?s=612x612"
     },
     {
         "id": 6,
         "category": "Men's watch",
-        "name": "wdrc",
-        "brand": "Addidas",
-        "price": 420,
-        "img": "../images/watch-1.jpg"
+        "name": "Longines",
+        "brand": "Titan",
+        "price": 115,
+        "img": "https://media.istockphoto.com/photos/wristwatch-on-the-table-picture-id617381516?s=612x612"
     },
     {
         "id": 7,
-        "category": "Women's watch",
-        "name": "werc",
-        "brand": "Addidas",
-        "price": 420,
-        "img": "../images/watch-1.jpg"
+        "category": "Men's watch",
+        "name": "Zenith",
+        "brand": "Omega",
+        "price": 90,
+        "img": "https://media.istockphoto.com/photos/gold-wrist-watch-on-a-black-background-luxury-accessories-for-men-picture-id1331924010?s=612x612"
     },
     {
         "id": 8,
         "category": "Men's watch",
-        "name": "we",
-        "brand": "Addidas",
-        "price": 420,
-        "img": "../images/watch-1.jpg"
+        "name": "Tudor",
+        "brand": "Swiss",
+        "price": 120,
+        "img": "https://media.istockphoto.com/photos/product-photography-of-a-wrist-watch-picture-id1325936423?s=612x612"
     },
     {
         "id": 9,
-        "category": "Women's watch",
-        "name": "xc",
-        "brand": "Addidas",
-        "price": 420,
-        "img": "../images/watch-1.jpg"
+        "category": "Men's watch",
+        "name": "Patek Philippe",
+        "brand": "Rolex",
+        "price": 130,
+        "img": "https://media.istockphoto.com/photos/classic-gold-watch-on-black-background-picture-id1023491066?s=612x612"
     }
 ]
