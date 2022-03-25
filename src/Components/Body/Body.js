@@ -8,12 +8,14 @@ const Body = () => {
             .then(res => res.json())
             .then(data => setProducts(data))
     }, [])
-
+    const addToCart = (product) => {
+        console.log(product)
+    }
     return (
         <div>
             <div>
                 {
-                    products.map(product => <Product key={product.id} product={product}></Product>)
+                    products.map(product => <Product key={product.id} product={product} addToCart={addToCart}></Product>)
                 }
             </div>
         </div>
