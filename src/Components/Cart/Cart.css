@@ -12,13 +12,13 @@
 }
 .cart-product img{
     height: 60px;
-    margin-left: 5px;
-    margin-right: 30px;
+    margin: 20px 20px 0 0;
     border-radius: 50%;
 }
 .cart-info{
     display: flex;
     align-items:center;
+    justify-content: center;
    
 }
 .btn button{
@@ -32,6 +32,8 @@
      flex-direction: column;
      align-items: center;
      justify-content: center;
+     margin-top: 10px;
+     margin-bottom: 10px;
 }
 .btn button:hover{
     background: chocolate;
