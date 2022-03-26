@@ -22,12 +22,13 @@ const Cart = ({ cart, reset, chooseItem, items }) => {
             </div>
             <div className='btn'>
                 <button onClick={() => chooseItem()} className='btn-choose'><p>Choose 1 for me</p></button>
-
-                <button onClick={reset} className='btn-reset'>Reset</button>
             </div>
             <div className='choose-item'>
                 <img src={img} alt="" />
                 <h4>{name}</h4>
+            </div>
+            <div className='btn'>
+                <button onClick={reset} className='btn-reset'>Reset</button>
             </div>
         </div>
     );

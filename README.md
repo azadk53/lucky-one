@@ -1,6 +1,7 @@
-#Watch Corner
+# Watch Corner
 
-This is my project live link [Netlify]()
+This is my project live link [Netlify](https://watchcorner.netlify.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
