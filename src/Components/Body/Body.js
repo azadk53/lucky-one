@@ -6,6 +6,7 @@ import './Body.css'
 const Body = () => {
     const [products, setProducts] = useState([])
     const [cart, setCart] = useState([])
+    const [items, setItems] = useState([])
     useEffect(() => {
         fetch('products.json')
             .then(res => res.json())
@@ -22,6 +23,14 @@ const Body = () => {
     }
     const reset = () => {
         setCart([])
+        setItems([])
+    }
+    const chooseItem = () => {
+        let a = Math.random() * (cart.length + 1 - 1)
+        let b = parseInt(a)
+        const item = cart[b]
+        setItems(item)
+
     }
     return (
         <div className='body-container'>
@@ -31,7 +40,7 @@ const Body = () => {
                 }
             </div>
             <div className='cart-container'>
-                <Cart cart={cart} reset={reset}></Cart>
+                <Cart cart={cart} reset={reset} chooseItem={chooseItem} items={items}></Cart>
             </div>
         </div>
     );
