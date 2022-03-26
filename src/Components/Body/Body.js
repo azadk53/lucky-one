@@ -12,8 +12,13 @@ const Body = () => {
             .then(data => setProducts(data))
     }, [])
     const addToCart = (product) => {
-        const newCart = [...cart, product]
-        setCart(newCart)
+        const exists = cart.find(prod => prod.id === product.id)
+        if (!exists) {
+            if (cart.length < 4) {
+                const newCart = [...cart, product]
+                setCart(newCart)
+            }
+        }
     }
     const reset = () => {
         setCart([])

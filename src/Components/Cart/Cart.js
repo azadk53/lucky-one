@@ -9,13 +9,15 @@ const Cart = ({ cart, reset }) => {
     }
     return (
         <div className='cart'>
-            <h3>Selected Watch</h3>
+            <h2>Selected Watch</h2>
             <div className='cart-product'>
                 <img src={img} alt="" />
                 <h4>{name}</h4>
             </div>
-            <button>Choose 1 for me</button>
-            <button onClick={reset}>Reset</button>
+            <div className='btn'>
+                <button className='btn-choose'>Choose 1 for me</button>
+                <button onClick={reset} className='btn-reset'>Reset</button>
+            </div>
         </div>
     );
 };

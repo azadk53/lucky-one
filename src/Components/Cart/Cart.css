@@ -8,8 +8,23 @@
     align-items: center;
 }
 .cart-product img{
-    height: 40px;
+    height: 50px;
     margin-left: 5px;
     margin-right: 30px;
-    border-radius: 50%;
+    border-radius: 60%;
+}
+.btn button{
+    width: 50%;
+    height: 30px;
+    background-color: antiquewhite;
+     border: 2px solid cadetblue;
+     margin-top: 10px;
+     border-radius: 8px;
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     justify-content: center;
+}
+.btn button:hover{
+    cursor: pointer;
 }
