@@ -29,7 +29,9 @@ const Body = () => {
         let a = Math.random() * (cart.length + 1 - 1)
         let b = parseInt(a)
         const item = cart[b]
-        setItems(item)
+        if (item) {
+            setItems(item)
+        }
 
     }
     return (
